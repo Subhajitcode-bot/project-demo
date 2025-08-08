@@ -1,3 +1,4 @@
 # project-demo
-this is my git testing project
-Author - Gol
+This is my git testing project
+<br/>
+Author - Project-Tester
